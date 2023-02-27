@@ -1,0 +1,1 @@
+https://swd391.odoo.com/mail/view?model=project.project&res_id=1&access_token=1c9d153c-8607-473c-9e39-508241527528
